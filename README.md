@@ -1,7 +1,7 @@
 # AWSGlue_TableUpdate
 
 ## Abstract
-An automatic way to rename column headers in AWS glue giving a header file
+An automatic way to rename column headers in AWS glue giving a header file without overwriting any metadata in the current table.
 
 ## Instructions
 1. Create a file in the same directory as AWSGlue_TableUpdate.py
