@@ -13,5 +13,5 @@ An automatic way to rename column headers in AWS glue giving a header file witho
 4. run 
 
 ## Dependencies
-boto3
-python3.7
+- boto3
+- python3.7
